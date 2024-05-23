@@ -1,1 +1,1 @@
-echo vikram 
+print vikramsai 
